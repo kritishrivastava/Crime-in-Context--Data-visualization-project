@@ -1,0 +1,86 @@
+[class*="dc-table-"] {
+text-align: center;
+}
+.data-table-container {
+padding: 10px;
+}
+.dropdown-button {
+top: 10px;
+}
+.row:not(:last-child) {
+border-bottom: 1px solid #ccc;
+padding: 10px;
+}
+th, td { padding: 2px; }
+
+tr.heading td div {
+	text-align: center;
+}
+td.heading {
+	position: relative;
+}
+tr.row:not(.heading) td.heading div {
+	white-space: nowrap;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform:  translateX(-50%) translateY(-50%) rotate(-90deg);
+}
+.chart-holder {
+	padding: 0 1em;
+}
+path.left {
+	stroke: #1f77b4;
+}
+path.right {
+	stroke: #ff7f0e;
+}
+path.horizontal {
+	stroke-width: 1;
+	stroke-opacity: 0.5;
+}
+path.zero {
+	stroke-dasharray: 4, 4;
+}
+path.zero.right {
+	stroke-dashoffset: 4;
+}
+path.extreme {
+	stroke-dasharray: 1, 1;
+}
+path.extreme.right {
+	stroke-dashoffset: 1;
+}
+.axis > path {
+	display: none;
+}
+
+body {
+	text-align: justify !important;
+}
+
+path:hover {
+fill-opacity: .7;
+}
+
+.table {
+	width: 85%;
+	font-size: smaller;
+}
+
+td {
+	padding: 0;
+}
+
+div.tooltip {   
+position: absolute;           
+text-align: center;           
+width: 60px;                  
+height: 28px;                 
+padding: 2px;             
+font: 12px sans-serif;        
+background: white;   
+border: 0px;      
+border-radius: 8px;           
+pointer-events: none;         
+}
