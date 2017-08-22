@@ -1,0 +1,197 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="https://dc-js.github.io/dc.js/css/dc.css" />
+  <script src="https://dc-js.github.io/dc.js/js/d3.js"></script>
+  <script src="https://dc-js.github.io/dc.js/js/crossfilter.js"></script>
+  <script src="https://dc-js.github.io/dc.js/js/dc.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="http://d3js.org/queue.v1.min.js"></script>
+	<script src="../static/script/cityIDs.js"></script>
+	<script src="../static/script/main.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="../static/css/style.css" />
+
+	<title id="title">CS590V: Final Project: Crime in Context</title>
+
+	</head>
+
+<body>
+	<div class="container" style="padding: 9px">
+		<h2><center>Crime in Context 1975-2015</center></h2>
+		<p>
+			This data was collected and analyzed under the Marshall Project. Last 40 years’ crime reports from 61 police agencies was collected. 
+			These reports contain information on the four major crimes that the FBI classifies as violent — homicide, rape, robbery and assault — in 68 
+			police jurisdictions with populations of 250,000 or greater. The rate of crime, per 100,000 residents in the jurisdiction, was calculated
+			based on the FBI’s estimated population for that year.</p><p>
+			The following visualizations help is answering the questions like <i>Is the crime in America rising or falling?</i> <i>Which cities have a 
+			higher crime rate? Which cities are safer?</i> <i>Is there a relation between the time of the year and the crime rate?</i> <i>Is crime
+			rate related to the population of the area? Is there a relation between various kinds of crimes?</i> amongst others. In this project, my aim 
+			was to experiment with various types of interactive visualizations while answering some interesting questions.<br>
+			Public data source
+				<a href="https://www.kaggle.com/marshallproject/crime-rates"
+					 target="_blank">Kaggle: Marshall Project</a>.
+		</p>
+    <div class="col-sm-12">
+      <table style="float: right; padding: 50px;">
+        <tr>
+          <td><button class="btn btn-primary" onclick="resetall()">Reset all</button>
+					</td>
+        </tr>
+       </table>
+    </div>
+		<div class="row">
+				<div class="col-sm-4">
+					<label for="us-chart" id="us-chart-title">Crime distribution across US</label>
+					<p><i>Is crime in America rising or falling?</i><br>This graph shows the distribution of violent crime across various states of the US. 
+					The dots on the map represent the cities with radius proportional to the total number of crimes reported over 40 years in the area. <br><br>
+					<b>New York</b> saw the most number of violent crimes over the span of 40 years, followed by <b>California</b>.<br><br>
+					Select the state of your choice and use the time range selector below to see the trend in crime.</p>					
+				</div>
+				<div class="col-sm-8" id="us-chart"></div>
+				<div class="row">
+				<center>
+					<div id="time-chart"></div>
+					<label for="time-chart" id="time-chart-title"></label>
+					
+				</center>
+		</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-5">
+				<div class="row">
+					<label for="citiesScatterplot" id="citiesScatterplot-title">Crime across various cities in the US</label>
+					<p><i>Which cities have a higher crime rate? Which cities are safer?<br>What is the lowest and the highest number of crimes reported in a city?</i><br>
+					This graph shows the distribution of violent crime across 68 cities.<br>
+					<b>New York</b>, <b>Los Angeles</b> and <b>Chicago</b> are the top three cities in terms of the crimes reported.<br><br>
+					Zoom in to see the maximum and minimum number of crimes reported in an area.<br>
+					</p>	
+					<div id="radioButtonsForXSelectionScatter">
+						<label class="buttonHeading">Select X axis:</label><br>
+						<form  class="buttonForm">
+							<input type="radio" id="x1scatter" name="xScatter" value="x1scatter" checked onclick="changeXScatter(this);"> 
+								<span for="x1scatter" id="xRadioText1Scatter">Total Crimes</span>
+							</input><br>
+							<input type="radio" id="x2scatter" name="xScatter" value="x2scatter" onclick="changeXScatter(this);">
+								<span for="x2scatter" id="xRadioText2Scatter">Total crimes per capita</span>
+							</input>
+						</form>
+					</div>
+					<div id="citiesScatterplot"></div>
+				</div>
+			</div>
+			<div class="col-sm-1"></div>
+			<div class="col-sm-6">	
+					<div class="row">
+						<label for="piechart" id="piechart-title">Distribution of cities based on crime, year and month</label>
+						<p><i>How many cities are safe? How many are unsafe?</i><br>A city can be safe in an year and unsafe in a different year.<br>
+							<b>24</b> times in past 40 years, a city became very unsafe because of the extremely high number of violent crimes reported.
+						</p>
+						<center><div id="piechart"></div></center>
+					</div>
+					<div class="row">
+						<label for="scatterplot" id="scatterplot-title">Effect of population on crime</label>
+						<p><i>Is crime rate related to the population of the area?</i><br>
+							In general, it can be observed that crime increases with the increase in population of the city. Safer cities have lesser population.
+						</p>
+						<center><div id="scatterplot"></div></center>
+					</div>
+					<div class="row">
+						<p><b>Relation between different types of crime</b><br>
+						<i>Is there a relation between various kinds of crimes?</i><br>
+							This graph shows the relation between different types of violent crimes. Correlation can be observed between number of homicides and 
+							robberies reported.<br>
+							<!-- The color legend for this graph is same as that of the graphs above(Green: Safe, Yellow: Moderate, Orange: Unsafe, Red: Very Unsafe). -->
+						</p>
+					 <table id="content"></table>
+						<!-- <label for="boxplot" id="boxplot-title">Distribution of total violent crime with the type of city</label> -->
+						<!-- <p>		</p> -->
+						<!-- <div id="boxplot"></div>	 -->
+					</div>
+			</div>
+		</div>
+		<!-- <div class="row" > -->
+			<!-- <center> -->
+				<!-- <p><b>Relation between different types of crime</b><br> -->
+					<!-- <i>Is there a relation between various kinds of crimes?</i><br> -->
+						<!-- This graph shows the relation between different types of violent crimes. Correlation can be observed between number of homicides and  -->
+						<!-- robberies reported.<br> -->
+						<!-- The color legend for this graph is same as that of the graphs above(Green: Safe, Yellow: Moderate, Orange: Unsafe, Red: Very Unsafe). -->
+					<!-- </p> -->
+				 <!-- <table id="content"></table> -->
+			<!-- </center> -->
+		<!-- </div> -->
+		<div class="row">
+				<center>
+					<label for="line-chart" id="line-chart-title">Trend in different types of crime over the years</label>
+					<p><i>Which is the most common type of violent crime? What is the overall trend in different types 
+					of crimes?</i><br>Contrary to what people would assume, the overall violent crime rate across the US is declining. 
+					The late 1980s and early 1990s saw the most number of violent crimes reports with the peak at <b>1991</b>. 
+					Amongst the different types of crimes, <b>assault</b> is the most common one and homicides are reported the least.
+					</p>
+					<div id="line-chart"></div>		
+				</center>
+		</div>
+		<div class="row">
+				<center>
+					<label for="areachart" id="areachartlabel">Total and Average violent crime over time</label>
+					<p><i>How has the total and average crime rate in America changed over the years? What is the difference between total and average crime in America?</i></p>
+					<center><div id="areachart"></div></center>
+				</center>
+		</div>
+		<div class="row" id="heatmapgrp">
+			<div class="col-sm-9">
+					<label for="heatmapgrp" id="heatMapHeading">Total crime distribution over months</label>
+					<p style="text-align:left"><i>Is there a relation between the time of the year and the crime rate? Which months see the most crime reports?</i><br>
+					Violent crimes reports increased towards the end of the year and the month of <b>December</b> has the most crimes.<br> 
+					<b>December 1995</b> had the highest total violent crime reports. However, <b>May 1990-1995</b> had the most crime per capita.</p>
+			</div>
+			<div class="col-sm-3">
+				<div id="radioButtonsForColorSelectionHeatMap">
+						<label class="buttonHeading">Select Dimension:</label><br>
+						<form  class="buttonForm">
+						<input type="radio" id="color1" name="colorheatmap" value="color1" checked onclick="changeColorHeatmap(this);"> 
+							 <span for="color1" id="colorRadioText1Heatmap">Total crimes</span>
+						</input><br>
+						<input type="radio" id="color2" name="colorheatmap" value="color2" onclick="changeColorHeatmap(this);">
+						 <span for="color2" id="colorRadioText2Heatmap">Total crimes per capita</span>
+						</input>
+						</form>
+					</div>
+			</div>
+				<center>
+					<div id="heatmap"></div>
+					<!-- <div id="xLabel">Year</div> -->
+					<!-- <div id="yLabel">Month</div> -->
+					<div id="heatmapkey"></div>
+				</center>
+		</div>
+		
+		<div class="row data-table-container">
+			<div class="col-sm-1"></div>
+			<div class="col-sm-7">
+				<label>Data Table with Top Records</label>
+				<p><i>When were the most rapes reported? Which city had the most homcides reports so far?</i><br>
+				Records can be sorted based on different criterias to get the details of top 10 records.</p>
+			</div>
+			<div class="col-sm-2 vcenter">
+				<div class="btn-group dropdown-button">
+					<button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+						<span>Sort By&nbsp;&nbsp;&nbsp;</span><span class="caret"></span>
+					</button>
+					<ul class="dropdown-menu" role="menu" id="sort-table">
+					</ul>
+				</div>
+			</div>
+			<div class="col-sm-2"></div>
+			<center>
+				<div class="panel-body">
+						<table id="data-table" class="table table-hover table-striped table-bordered">
+						</table>
+					</div>
+				</center>
+		</div>
+	</div>
+</body>
+</html>
