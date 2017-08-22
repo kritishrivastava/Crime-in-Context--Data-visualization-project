@@ -1,0 +1,2689 @@
+,0,1
+0,Albuquerque,NM
+1,Arlington,TX
+2,Atlanta,GA
+3,Aurora,CO
+4,Austin,TX
+5,Baltimore County,MD
+6,Baltimore,MD
+7,Boston,MA
+8,Buffalo,NY
+9,Charlotte,NC
+10,Chicago,IL
+11,Cincinnati,OH
+12,Cleveland,OH
+13,Columbus,OH
+14,Dallas,TX
+15,Denver,CO
+16,Detroit,MI
+17,El Paso,TX
+18,Fairfax County,VA
+19,Fort Worth,TX
+20,Fresno,CA
+21,Honolulu,HI
+22,Houston,TX
+23,Indianapolis,IN
+24,Jacksonville,FL
+25,Kansas City,MO
+26,Las Vegas,NV
+27,Long Beach,CA
+28,Los Angeles County,CA
+29,Los Angeles,CA
+31,Memphis,TN
+32,Mesa,AZ
+33,Miami-Dade County,FL
+34,Miami,FL
+35,Milwaukee,WI
+36,Minneapolis,MN
+37,Montgomery County,MD
+38,Nashville,TN
+39,Nassau County,NY
+40,New Orleans,LA
+41,New York City,NY
+42,Newark,NJ
+43,Oakland,CA
+44,Oklahoma City,OK
+45,Omaha,NE
+46,Orlando,FL
+47,Philadelphia,PA
+48,Phoenix,AZ
+49,Pittsburgh,PA
+50,Portland,OR
+51,Prince George's County,MD
+52,Raleigh,NC
+53,Sacramento,CA
+54,Salt Lake City,UT
+55,San Antonio,TX
+56,San Diego,CA
+57,San Francisco,CA
+58,San Jose,CA
+59,Seattle,WA
+60,St. Louis,MO
+61,Suffolk County,NY
+62,Tampa,FL
+63,Tucson,AZ
+64,Tulsa,OK
+65,Virginia Beach,VA
+66,Washington,DC
+67,Wichita,KS
+69,Albuquerque,NM
+70,Arlington,TX
+71,Atlanta,GA
+72,Aurora,CO
+73,Austin,TX
+74,Baltimore County,MD
+75,Baltimore,MD
+76,Boston,MA
+77,Buffalo,NY
+78,Charlotte,NC
+79,Chicago,IL
+80,Cincinnati,OH
+81,Cleveland,OH
+82,Columbus,OH
+83,Dallas,TX
+84,Denver,CO
+85,Detroit,MI
+86,El Paso,TX
+87,Fairfax County,VA
+88,Fort Worth,TX
+89,Fresno,CA
+90,Honolulu,HI
+91,Houston,TX
+92,Indianapolis,IN
+93,Jacksonville,FL
+94,Kansas City,MO
+95,Las Vegas,NV
+96,Long Beach,CA
+97,Los Angeles County,CA
+98,Los Angeles,CA
+100,Memphis,TN
+101,Mesa,AZ
+102,Miami-Dade County,FL
+103,Miami,FL
+104,Milwaukee,WI
+105,Minneapolis,MN
+106,Montgomery County,MD
+107,Nashville,TN
+108,Nassau County,NY
+109,New Orleans,LA
+110,New York City,NY
+111,Newark,NJ
+112,Oakland,CA
+113,Oklahoma City,OK
+114,Omaha,NE
+115,Orlando,FL
+116,Philadelphia,PA
+117,Phoenix,AZ
+118,Pittsburgh,PA
+119,Portland,OR
+120,Prince George's County,MD
+121,Raleigh,NC
+122,Sacramento,CA
+123,Salt Lake City,UT
+124,San Antonio,TX
+125,San Diego,CA
+126,San Francisco,CA
+127,San Jose,CA
+128,Seattle,WA
+129,St. Louis,MO
+130,Suffolk County,NY
+131,Tampa,FL
+132,Tucson,AZ
+133,Tulsa,OK
+134,Virginia Beach,VA
+135,Washington,DC
+136,Wichita,KS
+138,Albuquerque,NM
+139,Arlington,TX
+140,Atlanta,GA
+141,Aurora,CO
+142,Austin,TX
+143,Baltimore County,MD
+144,Baltimore,MD
+145,Boston,MA
+146,Buffalo,NY
+147,Charlotte,NC
+148,Chicago,IL
+149,Cincinnati,OH
+150,Cleveland,OH
+151,Columbus,OH
+152,Dallas,TX
+153,Denver,CO
+154,Detroit,MI
+155,El Paso,TX
+156,Fairfax County,VA
+157,Fort Worth,TX
+158,Fresno,CA
+159,Honolulu,HI
+160,Houston,TX
+161,Indianapolis,IN
+162,Jacksonville,FL
+163,Kansas City,MO
+164,Las Vegas,NV
+165,Long Beach,CA
+166,Los Angeles County,CA
+167,Los Angeles,CA
+169,Memphis,TN
+170,Mesa,AZ
+171,Miami-Dade County,FL
+172,Miami,FL
+173,Milwaukee,WI
+174,Minneapolis,MN
+175,Montgomery County,MD
+176,Nashville,TN
+177,Nassau County,NY
+178,New Orleans,LA
+179,New York City,NY
+180,Newark,NJ
+181,Oakland,CA
+182,Oklahoma City,OK
+183,Omaha,NE
+184,Orlando,FL
+185,Philadelphia,PA
+186,Phoenix,AZ
+187,Pittsburgh,PA
+188,Portland,OR
+189,Prince George's County,MD
+190,Raleigh,NC
+191,Sacramento,CA
+192,Salt Lake City,UT
+193,San Antonio,TX
+194,San Diego,CA
+195,San Francisco,CA
+196,San Jose,CA
+197,Seattle,WA
+198,St. Louis,MO
+199,Suffolk County,NY
+200,Tampa,FL
+201,Tucson,AZ
+202,Tulsa,OK
+203,Virginia Beach,VA
+204,Washington,DC
+205,Wichita,KS
+207,Albuquerque,NM
+208,Arlington,TX
+209,Atlanta,GA
+210,Aurora,CO
+211,Austin,TX
+212,Baltimore County,MD
+213,Baltimore,MD
+214,Boston,MA
+215,Buffalo,NY
+216,Charlotte,NC
+217,Chicago,IL
+218,Cincinnati,OH
+219,Cleveland,OH
+220,Columbus,OH
+221,Dallas,TX
+222,Denver,CO
+223,Detroit,MI
+224,El Paso,TX
+225,Fairfax County,VA
+226,Fort Worth,TX
+227,Fresno,CA
+228,Honolulu,HI
+229,Houston,TX
+230,Indianapolis,IN
+231,Jacksonville,FL
+232,Kansas City,MO
+233,Las Vegas,NV
+234,Long Beach,CA
+235,Los Angeles County,CA
+236,Los Angeles,CA
+238,Memphis,TN
+239,Mesa,AZ
+240,Miami-Dade County,FL
+241,Miami,FL
+242,Milwaukee,WI
+243,Minneapolis,MN
+244,Montgomery County,MD
+245,Nashville,TN
+246,Nassau County,NY
+247,New Orleans,LA
+248,New York City,NY
+249,Newark,NJ
+250,Oakland,CA
+251,Oklahoma City,OK
+252,Omaha,NE
+253,Orlando,FL
+254,Philadelphia,PA
+255,Phoenix,AZ
+256,Pittsburgh,PA
+257,Portland,OR
+258,Prince George's County,MD
+259,Raleigh,NC
+260,Sacramento,CA
+261,Salt Lake City,UT
+262,San Antonio,TX
+263,San Diego,CA
+264,San Francisco,CA
+265,San Jose,CA
+266,Seattle,WA
+267,St. Louis,MO
+268,Suffolk County,NY
+269,Tampa,FL
+270,Tucson,AZ
+271,Tulsa,OK
+272,Virginia Beach,VA
+273,Washington,DC
+274,Wichita,KS
+276,Albuquerque,NM
+277,Arlington,TX
+278,Atlanta,GA
+279,Aurora,CO
+280,Austin,TX
+281,Baltimore County,MD
+282,Baltimore,MD
+283,Boston,MA
+284,Buffalo,NY
+285,Charlotte,NC
+286,Chicago,IL
+287,Cincinnati,OH
+288,Cleveland,OH
+289,Columbus,OH
+290,Dallas,TX
+291,Denver,CO
+292,Detroit,MI
+293,El Paso,TX
+294,Fairfax County,VA
+295,Fort Worth,TX
+296,Fresno,CA
+297,Honolulu,HI
+298,Houston,TX
+299,Indianapolis,IN
+300,Jacksonville,FL
+301,Kansas City,MO
+302,Las Vegas,NV
+303,Long Beach,CA
+304,Los Angeles County,CA
+305,Los Angeles,CA
+307,Memphis,TN
+308,Mesa,AZ
+309,Miami-Dade County,FL
+310,Miami,FL
+311,Milwaukee,WI
+312,Minneapolis,MN
+313,Montgomery County,MD
+314,Nashville,TN
+315,Nassau County,NY
+316,New Orleans,LA
+317,New York City,NY
+318,Newark,NJ
+319,Oakland,CA
+320,Oklahoma City,OK
+321,Omaha,NE
+322,Orlando,FL
+323,Philadelphia,PA
+324,Phoenix,AZ
+325,Pittsburgh,PA
+326,Portland,OR
+327,Prince George's County,MD
+328,Raleigh,NC
+329,Sacramento,CA
+330,Salt Lake City,UT
+331,San Antonio,TX
+332,San Diego,CA
+333,San Francisco,CA
+334,San Jose,CA
+335,Seattle,WA
+336,St. Louis,MO
+337,Suffolk County,NY
+338,Tampa,FL
+339,Tucson,AZ
+340,Tulsa,OK
+341,Virginia Beach,VA
+342,Washington,DC
+343,Wichita,KS
+345,Albuquerque,NM
+346,Arlington,TX
+347,Atlanta,GA
+348,Aurora,CO
+349,Austin,TX
+350,Baltimore County,MD
+351,Baltimore,MD
+352,Boston,MA
+353,Buffalo,NY
+354,Charlotte,NC
+355,Chicago,IL
+356,Cincinnati,OH
+357,Cleveland,OH
+358,Columbus,OH
+359,Dallas,TX
+360,Denver,CO
+361,Detroit,MI
+362,El Paso,TX
+363,Fairfax County,VA
+364,Fort Worth,TX
+365,Fresno,CA
+366,Honolulu,HI
+367,Houston,TX
+368,Indianapolis,IN
+369,Jacksonville,FL
+370,Kansas City,MO
+371,Las Vegas,NV
+372,Long Beach,CA
+373,Los Angeles County,CA
+374,Los Angeles,CA
+376,Memphis,TN
+377,Mesa,AZ
+378,Miami-Dade County,FL
+379,Miami,FL
+380,Milwaukee,WI
+381,Minneapolis,MN
+382,Montgomery County,MD
+383,Nashville,TN
+384,Nassau County,NY
+385,New Orleans,LA
+386,New York City,NY
+387,Newark,NJ
+388,Oakland,CA
+389,Oklahoma City,OK
+390,Omaha,NE
+391,Orlando,FL
+392,Philadelphia,PA
+393,Phoenix,AZ
+394,Pittsburgh,PA
+395,Portland,OR
+396,Prince George's County,MD
+397,Raleigh,NC
+398,Sacramento,CA
+399,Salt Lake City,UT
+400,San Antonio,TX
+401,San Diego,CA
+402,San Francisco,CA
+403,San Jose,CA
+404,Seattle,WA
+405,St. Louis,MO
+406,Suffolk County,NY
+407,Tampa,FL
+408,Tucson,AZ
+409,Tulsa,OK
+410,Virginia Beach,VA
+411,Washington,DC
+412,Wichita,KS
+414,Albuquerque,NM
+415,Arlington,TX
+416,Atlanta,GA
+417,Aurora,CO
+418,Austin,TX
+419,Baltimore County,MD
+420,Baltimore,MD
+421,Boston,MA
+422,Buffalo,NY
+423,Charlotte,NC
+424,Chicago,IL
+425,Cincinnati,OH
+426,Cleveland,OH
+427,Columbus,OH
+428,Dallas,TX
+429,Denver,CO
+430,Detroit,MI
+431,El Paso,TX
+432,Fairfax County,VA
+433,Fort Worth,TX
+434,Fresno,CA
+435,Honolulu,HI
+436,Houston,TX
+437,Indianapolis,IN
+438,Jacksonville,FL
+439,Kansas City,MO
+440,Las Vegas,NV
+441,Long Beach,CA
+442,Los Angeles County,CA
+443,Los Angeles,CA
+445,Memphis,TN
+446,Mesa,AZ
+447,Miami-Dade County,FL
+448,Miami,FL
+449,Milwaukee,WI
+450,Minneapolis,MN
+451,Montgomery County,MD
+452,Nashville,TN
+453,Nassau County,NY
+454,New Orleans,LA
+455,New York City,NY
+456,Newark,NJ
+457,Oakland,CA
+458,Oklahoma City,OK
+459,Omaha,NE
+460,Orlando,FL
+461,Philadelphia,PA
+462,Phoenix,AZ
+463,Pittsburgh,PA
+464,Portland,OR
+465,Prince George's County,MD
+466,Raleigh,NC
+467,Sacramento,CA
+468,Salt Lake City,UT
+469,San Antonio,TX
+470,San Diego,CA
+471,San Francisco,CA
+472,San Jose,CA
+473,Seattle,WA
+474,St. Louis,MO
+475,Suffolk County,NY
+476,Tampa,FL
+477,Tucson,AZ
+478,Tulsa,OK
+479,Virginia Beach,VA
+480,Washington,DC
+481,Wichita,KS
+483,Albuquerque,NM
+484,Arlington,TX
+485,Atlanta,GA
+486,Aurora,CO
+487,Austin,TX
+488,Baltimore County,MD
+489,Baltimore,MD
+490,Boston,MA
+491,Buffalo,NY
+492,Charlotte,NC
+493,Chicago,IL
+494,Cincinnati,OH
+495,Cleveland,OH
+496,Columbus,OH
+497,Dallas,TX
+498,Denver,CO
+499,Detroit,MI
+500,El Paso,TX
+501,Fairfax County,VA
+502,Fort Worth,TX
+503,Fresno,CA
+504,Honolulu,HI
+505,Houston,TX
+506,Indianapolis,IN
+507,Jacksonville,FL
+508,Kansas City,MO
+509,Las Vegas,NV
+510,Long Beach,CA
+511,Los Angeles County,CA
+512,Los Angeles,CA
+514,Memphis,TN
+515,Mesa,AZ
+516,Miami-Dade County,FL
+517,Miami,FL
+518,Milwaukee,WI
+519,Minneapolis,MN
+520,Montgomery County,MD
+521,Nashville,TN
+522,Nassau County,NY
+523,New Orleans,LA
+524,New York City,NY
+525,Newark,NJ
+526,Oakland,CA
+527,Oklahoma City,OK
+528,Omaha,NE
+529,Orlando,FL
+530,Philadelphia,PA
+531,Phoenix,AZ
+532,Pittsburgh,PA
+533,Portland,OR
+534,Prince George's County,MD
+535,Raleigh,NC
+536,Sacramento,CA
+537,Salt Lake City,UT
+538,San Antonio,TX
+539,San Diego,CA
+540,San Francisco,CA
+541,San Jose,CA
+542,Seattle,WA
+543,St. Louis,MO
+544,Suffolk County,NY
+545,Tampa,FL
+546,Tucson,AZ
+547,Tulsa,OK
+548,Virginia Beach,VA
+549,Washington,DC
+550,Wichita,KS
+552,Albuquerque,NM
+553,Arlington,TX
+554,Atlanta,GA
+555,Aurora,CO
+556,Austin,TX
+557,Baltimore County,MD
+558,Baltimore,MD
+559,Boston,MA
+560,Buffalo,NY
+561,Charlotte,NC
+562,Chicago,IL
+563,Cincinnati,OH
+564,Cleveland,OH
+565,Columbus,OH
+566,Dallas,TX
+567,Denver,CO
+568,Detroit,MI
+569,El Paso,TX
+570,Fairfax County,VA
+571,Fort Worth,TX
+572,Fresno,CA
+573,Honolulu,HI
+574,Houston,TX
+575,Indianapolis,IN
+576,Jacksonville,FL
+577,Kansas City,MO
+578,Las Vegas,NV
+579,Long Beach,CA
+580,Los Angeles County,CA
+581,Los Angeles,CA
+583,Memphis,TN
+584,Mesa,AZ
+585,Miami-Dade County,FL
+586,Miami,FL
+587,Milwaukee,WI
+588,Minneapolis,MN
+589,Montgomery County,MD
+590,Nashville,TN
+591,Nassau County,NY
+592,New Orleans,LA
+593,New York City,NY
+594,Newark,NJ
+595,Oakland,CA
+596,Oklahoma City,OK
+597,Omaha,NE
+598,Orlando,FL
+599,Philadelphia,PA
+600,Phoenix,AZ
+601,Pittsburgh,PA
+602,Portland,OR
+603,Prince George's County,MD
+604,Raleigh,NC
+605,Sacramento,CA
+606,Salt Lake City,UT
+607,San Antonio,TX
+608,San Diego,CA
+609,San Francisco,CA
+610,San Jose,CA
+611,Seattle,WA
+612,St. Louis,MO
+613,Suffolk County,NY
+614,Tampa,FL
+615,Tucson,AZ
+616,Tulsa,OK
+617,Virginia Beach,VA
+618,Washington,DC
+619,Wichita,KS
+621,Albuquerque,NM
+622,Arlington,TX
+623,Atlanta,GA
+624,Aurora,CO
+625,Austin,TX
+626,Baltimore County,MD
+627,Baltimore,MD
+628,Boston,MA
+629,Buffalo,NY
+630,Charlotte,NC
+631,Chicago,IL
+632,Cincinnati,OH
+633,Cleveland,OH
+634,Columbus,OH
+635,Dallas,TX
+636,Denver,CO
+637,Detroit,MI
+638,El Paso,TX
+639,Fairfax County,VA
+640,Fort Worth,TX
+641,Fresno,CA
+642,Honolulu,HI
+643,Houston,TX
+644,Indianapolis,IN
+645,Jacksonville,FL
+646,Kansas City,MO
+647,Las Vegas,NV
+648,Long Beach,CA
+649,Los Angeles County,CA
+650,Los Angeles,CA
+652,Memphis,TN
+653,Mesa,AZ
+654,Miami-Dade County,FL
+655,Miami,FL
+656,Milwaukee,WI
+657,Minneapolis,MN
+658,Montgomery County,MD
+659,Nashville,TN
+660,Nassau County,NY
+661,New Orleans,LA
+662,New York City,NY
+663,Newark,NJ
+664,Oakland,CA
+665,Oklahoma City,OK
+666,Omaha,NE
+667,Orlando,FL
+668,Philadelphia,PA
+669,Phoenix,AZ
+670,Pittsburgh,PA
+671,Portland,OR
+672,Prince George's County,MD
+673,Raleigh,NC
+674,Sacramento,CA
+675,Salt Lake City,UT
+676,San Antonio,TX
+677,San Diego,CA
+678,San Francisco,CA
+679,San Jose,CA
+680,Seattle,WA
+681,St. Louis,MO
+682,Suffolk County,NY
+683,Tampa,FL
+684,Tucson,AZ
+685,Tulsa,OK
+686,Virginia Beach,VA
+687,Washington,DC
+688,Wichita,KS
+690,Albuquerque,NM
+691,Arlington,TX
+692,Atlanta,GA
+693,Aurora,CO
+694,Austin,TX
+695,Baltimore County,MD
+696,Baltimore,MD
+697,Boston,MA
+698,Buffalo,NY
+699,Charlotte,NC
+700,Chicago,IL
+701,Cincinnati,OH
+702,Cleveland,OH
+703,Columbus,OH
+704,Dallas,TX
+705,Denver,CO
+706,Detroit,MI
+707,El Paso,TX
+708,Fairfax County,VA
+709,Fort Worth,TX
+710,Fresno,CA
+711,Honolulu,HI
+712,Houston,TX
+713,Indianapolis,IN
+714,Jacksonville,FL
+715,Kansas City,MO
+716,Las Vegas,NV
+717,Long Beach,CA
+718,Los Angeles County,CA
+719,Los Angeles,CA
+721,Memphis,TN
+722,Mesa,AZ
+723,Miami-Dade County,FL
+724,Miami,FL
+725,Milwaukee,WI
+726,Minneapolis,MN
+727,Montgomery County,MD
+728,Nashville,TN
+729,Nassau County,NY
+730,New Orleans,LA
+731,New York City,NY
+732,Newark,NJ
+733,Oakland,CA
+734,Oklahoma City,OK
+735,Omaha,NE
+736,Orlando,FL
+737,Philadelphia,PA
+738,Phoenix,AZ
+739,Pittsburgh,PA
+740,Portland,OR
+741,Prince George's County,MD
+742,Raleigh,NC
+743,Sacramento,CA
+744,Salt Lake City,UT
+745,San Antonio,TX
+746,San Diego,CA
+747,San Francisco,CA
+748,San Jose,CA
+749,Seattle,WA
+750,St. Louis,MO
+751,Suffolk County,NY
+752,Tampa,FL
+753,Tucson,AZ
+754,Tulsa,OK
+755,Virginia Beach,VA
+756,Washington,DC
+757,Wichita,KS
+759,Albuquerque,NM
+760,Arlington,TX
+761,Atlanta,GA
+762,Aurora,CO
+763,Austin,TX
+764,Baltimore County,MD
+765,Baltimore,MD
+766,Boston,MA
+767,Buffalo,NY
+768,Charlotte,NC
+769,Chicago,IL
+770,Cincinnati,OH
+771,Cleveland,OH
+772,Columbus,OH
+773,Dallas,TX
+774,Denver,CO
+775,Detroit,MI
+776,El Paso,TX
+777,Fairfax County,VA
+778,Fort Worth,TX
+779,Fresno,CA
+780,Honolulu,HI
+781,Houston,TX
+782,Indianapolis,IN
+783,Jacksonville,FL
+784,Kansas City,MO
+785,Las Vegas,NV
+786,Long Beach,CA
+787,Los Angeles County,CA
+788,Los Angeles,CA
+790,Memphis,TN
+791,Mesa,AZ
+792,Miami-Dade County,FL
+793,Miami,FL
+794,Milwaukee,WI
+795,Minneapolis,MN
+796,Montgomery County,MD
+797,Nashville,TN
+798,Nassau County,NY
+799,New Orleans,LA
+800,New York City,NY
+801,Newark,NJ
+802,Oakland,CA
+803,Oklahoma City,OK
+804,Omaha,NE
+805,Orlando,FL
+806,Philadelphia,PA
+807,Phoenix,AZ
+808,Pittsburgh,PA
+809,Portland,OR
+810,Prince George's County,MD
+811,Raleigh,NC
+812,Sacramento,CA
+813,Salt Lake City,UT
+814,San Antonio,TX
+815,San Diego,CA
+816,San Francisco,CA
+817,San Jose,CA
+818,Seattle,WA
+819,St. Louis,MO
+820,Suffolk County,NY
+821,Tampa,FL
+822,Tucson,AZ
+823,Tulsa,OK
+824,Virginia Beach,VA
+825,Washington,DC
+826,Wichita,KS
+828,Albuquerque,NM
+829,Arlington,TX
+830,Atlanta,GA
+831,Aurora,CO
+832,Austin,TX
+833,Baltimore County,MD
+834,Baltimore,MD
+835,Boston,MA
+836,Buffalo,NY
+837,Charlotte,NC
+838,Chicago,IL
+839,Cincinnati,OH
+840,Cleveland,OH
+841,Columbus,OH
+842,Dallas,TX
+843,Denver,CO
+844,Detroit,MI
+845,El Paso,TX
+846,Fairfax County,VA
+847,Fort Worth,TX
+848,Fresno,CA
+849,Honolulu,HI
+850,Houston,TX
+851,Indianapolis,IN
+852,Jacksonville,FL
+853,Kansas City,MO
+854,Las Vegas,NV
+855,Long Beach,CA
+856,Los Angeles County,CA
+857,Los Angeles,CA
+859,Memphis,TN
+860,Mesa,AZ
+861,Miami-Dade County,FL
+862,Miami,FL
+863,Milwaukee,WI
+864,Minneapolis,MN
+865,Montgomery County,MD
+866,Nashville,TN
+867,Nassau County,NY
+868,New Orleans,LA
+869,New York City,NY
+870,Newark,NJ
+871,Oakland,CA
+872,Oklahoma City,OK
+873,Omaha,NE
+874,Orlando,FL
+875,Philadelphia,PA
+876,Phoenix,AZ
+877,Pittsburgh,PA
+878,Portland,OR
+879,Prince George's County,MD
+880,Raleigh,NC
+881,Sacramento,CA
+882,Salt Lake City,UT
+883,San Antonio,TX
+884,San Diego,CA
+885,San Francisco,CA
+886,San Jose,CA
+887,Seattle,WA
+888,St. Louis,MO
+889,Suffolk County,NY
+890,Tampa,FL
+891,Tucson,AZ
+892,Tulsa,OK
+893,Virginia Beach,VA
+894,Washington,DC
+895,Wichita,KS
+897,Albuquerque,NM
+898,Arlington,TX
+899,Atlanta,GA
+900,Aurora,CO
+901,Austin,TX
+902,Baltimore County,MD
+903,Baltimore,MD
+904,Boston,MA
+905,Buffalo,NY
+906,Charlotte,NC
+907,Chicago,IL
+908,Cincinnati,OH
+909,Cleveland,OH
+910,Columbus,OH
+911,Dallas,TX
+912,Denver,CO
+913,Detroit,MI
+914,El Paso,TX
+915,Fairfax County,VA
+916,Fort Worth,TX
+917,Fresno,CA
+918,Honolulu,HI
+919,Houston,TX
+920,Indianapolis,IN
+922,Kansas City,MO
+923,Las Vegas,NV
+924,Long Beach,CA
+925,Los Angeles County,CA
+926,Los Angeles,CA
+928,Memphis,TN
+929,Mesa,AZ
+930,Miami-Dade County,FL
+931,Miami,FL
+932,Milwaukee,WI
+933,Minneapolis,MN
+934,Montgomery County,MD
+935,Nashville,TN
+936,Nassau County,NY
+937,New Orleans,LA
+938,New York City,NY
+939,Newark,NJ
+940,Oakland,CA
+941,Oklahoma City,OK
+942,Omaha,NE
+943,Orlando,FL
+944,Philadelphia,PA
+945,Phoenix,AZ
+946,Pittsburgh,PA
+947,Portland,OR
+948,Prince George's County,MD
+949,Raleigh,NC
+950,Sacramento,CA
+951,Salt Lake City,UT
+952,San Antonio,TX
+953,San Diego,CA
+954,San Francisco,CA
+955,San Jose,CA
+956,Seattle,WA
+957,St. Louis,MO
+958,Suffolk County,NY
+960,Tucson,AZ
+961,Tulsa,OK
+962,Virginia Beach,VA
+963,Washington,DC
+964,Wichita,KS
+966,Albuquerque,NM
+967,Arlington,TX
+968,Atlanta,GA
+969,Aurora,CO
+970,Austin,TX
+971,Baltimore County,MD
+972,Baltimore,MD
+973,Boston,MA
+974,Buffalo,NY
+975,Charlotte,NC
+976,Chicago,IL
+977,Cincinnati,OH
+978,Cleveland,OH
+979,Columbus,OH
+980,Dallas,TX
+981,Denver,CO
+982,Detroit,MI
+983,El Paso,TX
+984,Fairfax County,VA
+985,Fort Worth,TX
+986,Fresno,CA
+987,Honolulu,HI
+988,Houston,TX
+989,Indianapolis,IN
+990,Jacksonville,FL
+991,Kansas City,MO
+992,Las Vegas,NV
+993,Long Beach,CA
+994,Los Angeles County,CA
+995,Los Angeles,CA
+997,Memphis,TN
+998,Mesa,AZ
+999,Miami-Dade County,FL
+1000,Miami,FL
+1001,Milwaukee,WI
+1002,Minneapolis,MN
+1003,Montgomery County,MD
+1004,Nashville,TN
+1005,Nassau County,NY
+1006,New Orleans,LA
+1007,New York City,NY
+1008,Newark,NJ
+1009,Oakland,CA
+1010,Oklahoma City,OK
+1011,Omaha,NE
+1012,Orlando,FL
+1013,Philadelphia,PA
+1014,Phoenix,AZ
+1015,Pittsburgh,PA
+1016,Portland,OR
+1017,Prince George's County,MD
+1018,Raleigh,NC
+1019,Sacramento,CA
+1020,Salt Lake City,UT
+1021,San Antonio,TX
+1022,San Diego,CA
+1023,San Francisco,CA
+1024,San Jose,CA
+1025,Seattle,WA
+1026,St. Louis,MO
+1027,Suffolk County,NY
+1028,Tampa,FL
+1029,Tucson,AZ
+1030,Tulsa,OK
+1031,Virginia Beach,VA
+1032,Washington,DC
+1033,Wichita,KS
+1035,Albuquerque,NM
+1036,Arlington,TX
+1037,Atlanta,GA
+1038,Aurora,CO
+1039,Austin,TX
+1040,Baltimore County,MD
+1041,Baltimore,MD
+1042,Boston,MA
+1043,Buffalo,NY
+1044,Charlotte,NC
+1045,Chicago,IL
+1046,Cincinnati,OH
+1047,Cleveland,OH
+1048,Columbus,OH
+1049,Dallas,TX
+1050,Denver,CO
+1051,Detroit,MI
+1052,El Paso,TX
+1053,Fairfax County,VA
+1054,Fort Worth,TX
+1055,Fresno,CA
+1056,Honolulu,HI
+1057,Houston,TX
+1058,Indianapolis,IN
+1059,Jacksonville,FL
+1060,Kansas City,MO
+1061,Las Vegas,NV
+1062,Long Beach,CA
+1063,Los Angeles County,CA
+1064,Los Angeles,CA
+1066,Memphis,TN
+1067,Mesa,AZ
+1068,Miami-Dade County,FL
+1069,Miami,FL
+1070,Milwaukee,WI
+1071,Minneapolis,MN
+1072,Montgomery County,MD
+1073,Nashville,TN
+1074,Nassau County,NY
+1075,New Orleans,LA
+1076,New York City,NY
+1077,Newark,NJ
+1078,Oakland,CA
+1079,Oklahoma City,OK
+1080,Omaha,NE
+1081,Orlando,FL
+1082,Philadelphia,PA
+1083,Phoenix,AZ
+1084,Pittsburgh,PA
+1085,Portland,OR
+1086,Prince George's County,MD
+1087,Raleigh,NC
+1088,Sacramento,CA
+1089,Salt Lake City,UT
+1090,San Antonio,TX
+1091,San Diego,CA
+1092,San Francisco,CA
+1093,San Jose,CA
+1094,Seattle,WA
+1095,St. Louis,MO
+1096,Suffolk County,NY
+1097,Tampa,FL
+1098,Tucson,AZ
+1099,Tulsa,OK
+1100,Virginia Beach,VA
+1101,Washington,DC
+1102,Wichita,KS
+1104,Albuquerque,NM
+1105,Arlington,TX
+1106,Atlanta,GA
+1107,Aurora,CO
+1108,Austin,TX
+1109,Baltimore County,MD
+1110,Baltimore,MD
+1111,Boston,MA
+1112,Buffalo,NY
+1113,Charlotte,NC
+1114,Chicago,IL
+1115,Cincinnati,OH
+1116,Cleveland,OH
+1117,Columbus,OH
+1118,Dallas,TX
+1119,Denver,CO
+1120,Detroit,MI
+1121,El Paso,TX
+1122,Fairfax County,VA
+1123,Fort Worth,TX
+1124,Fresno,CA
+1125,Honolulu,HI
+1126,Houston,TX
+1127,Indianapolis,IN
+1128,Jacksonville,FL
+1129,Kansas City,MO
+1130,Las Vegas,NV
+1131,Long Beach,CA
+1132,Los Angeles County,CA
+1133,Los Angeles,CA
+1135,Memphis,TN
+1136,Mesa,AZ
+1137,Miami-Dade County,FL
+1138,Miami,FL
+1139,Milwaukee,WI
+1140,Minneapolis,MN
+1141,Montgomery County,MD
+1142,Nashville,TN
+1143,Nassau County,NY
+1144,New Orleans,LA
+1145,New York City,NY
+1146,Newark,NJ
+1147,Oakland,CA
+1148,Oklahoma City,OK
+1149,Omaha,NE
+1150,Orlando,FL
+1151,Philadelphia,PA
+1152,Phoenix,AZ
+1153,Pittsburgh,PA
+1154,Portland,OR
+1155,Prince George's County,MD
+1156,Raleigh,NC
+1157,Sacramento,CA
+1158,Salt Lake City,UT
+1159,San Antonio,TX
+1160,San Diego,CA
+1161,San Francisco,CA
+1162,San Jose,CA
+1163,Seattle,WA
+1164,St. Louis,MO
+1165,Suffolk County,NY
+1166,Tampa,FL
+1167,Tucson,AZ
+1168,Tulsa,OK
+1169,Virginia Beach,VA
+1170,Washington,DC
+1171,Wichita,KS
+1173,Albuquerque,NM
+1174,Arlington,TX
+1175,Atlanta,GA
+1176,Aurora,CO
+1177,Austin,TX
+1178,Baltimore County,MD
+1179,Baltimore,MD
+1180,Boston,MA
+1181,Buffalo,NY
+1182,Charlotte,NC
+1183,Chicago,IL
+1184,Cincinnati,OH
+1185,Cleveland,OH
+1186,Columbus,OH
+1187,Dallas,TX
+1188,Denver,CO
+1189,Detroit,MI
+1190,El Paso,TX
+1191,Fairfax County,VA
+1192,Fort Worth,TX
+1193,Fresno,CA
+1194,Honolulu,HI
+1195,Houston,TX
+1196,Indianapolis,IN
+1197,Jacksonville,FL
+1198,Kansas City,MO
+1199,Las Vegas,NV
+1200,Long Beach,CA
+1201,Los Angeles County,CA
+1202,Los Angeles,CA
+1204,Memphis,TN
+1205,Mesa,AZ
+1206,Miami-Dade County,FL
+1207,Miami,FL
+1208,Milwaukee,WI
+1209,Minneapolis,MN
+1210,Montgomery County,MD
+1211,Nashville,TN
+1212,Nassau County,NY
+1213,New Orleans,LA
+1214,New York City,NY
+1215,Newark,NJ
+1216,Oakland,CA
+1217,Oklahoma City,OK
+1218,Omaha,NE
+1219,Orlando,FL
+1220,Philadelphia,PA
+1221,Phoenix,AZ
+1222,Pittsburgh,PA
+1223,Portland,OR
+1224,Prince George's County,MD
+1225,Raleigh,NC
+1226,Sacramento,CA
+1227,Salt Lake City,UT
+1228,San Antonio,TX
+1229,San Diego,CA
+1230,San Francisco,CA
+1231,San Jose,CA
+1232,Seattle,WA
+1233,St. Louis,MO
+1234,Suffolk County,NY
+1235,Tampa,FL
+1236,Tucson,AZ
+1237,Tulsa,OK
+1238,Virginia Beach,VA
+1239,Washington,DC
+1240,Wichita,KS
+1242,Albuquerque,NM
+1243,Arlington,TX
+1244,Atlanta,GA
+1245,Aurora,CO
+1246,Austin,TX
+1247,Baltimore County,MD
+1248,Baltimore,MD
+1249,Boston,MA
+1250,Buffalo,NY
+1251,Charlotte,NC
+1252,Chicago,IL
+1253,Cincinnati,OH
+1254,Cleveland,OH
+1255,Columbus,OH
+1256,Dallas,TX
+1257,Denver,CO
+1258,Detroit,MI
+1259,El Paso,TX
+1260,Fairfax County,VA
+1261,Fort Worth,TX
+1262,Fresno,CA
+1263,Honolulu,HI
+1264,Houston,TX
+1265,Indianapolis,IN
+1266,Jacksonville,FL
+1267,Kansas City,MO
+1268,Las Vegas,NV
+1269,Long Beach,CA
+1270,Los Angeles County,CA
+1271,Los Angeles,CA
+1273,Memphis,TN
+1274,Mesa,AZ
+1275,Miami-Dade County,FL
+1276,Miami,FL
+1277,Milwaukee,WI
+1278,Minneapolis,MN
+1279,Montgomery County,MD
+1280,Nashville,TN
+1281,Nassau County,NY
+1282,New Orleans,LA
+1283,New York City,NY
+1284,Newark,NJ
+1285,Oakland,CA
+1286,Oklahoma City,OK
+1287,Omaha,NE
+1288,Orlando,FL
+1289,Philadelphia,PA
+1290,Phoenix,AZ
+1291,Pittsburgh,PA
+1292,Portland,OR
+1293,Prince George's County,MD
+1294,Raleigh,NC
+1295,Sacramento,CA
+1296,Salt Lake City,UT
+1297,San Antonio,TX
+1298,San Diego,CA
+1299,San Francisco,CA
+1300,San Jose,CA
+1301,Seattle,WA
+1302,St. Louis,MO
+1303,Suffolk County,NY
+1304,Tampa,FL
+1305,Tucson,AZ
+1306,Tulsa,OK
+1307,Virginia Beach,VA
+1308,Washington,DC
+1309,Wichita,KS
+1311,Albuquerque,NM
+1312,Arlington,TX
+1313,Atlanta,GA
+1314,Aurora,CO
+1315,Austin,TX
+1316,Baltimore County,MD
+1317,Baltimore,MD
+1318,Boston,MA
+1319,Buffalo,NY
+1320,Charlotte,NC
+1321,Chicago,IL
+1322,Cincinnati,OH
+1323,Cleveland,OH
+1324,Columbus,OH
+1325,Dallas,TX
+1326,Denver,CO
+1327,Detroit,MI
+1328,El Paso,TX
+1329,Fairfax County,VA
+1330,Fort Worth,TX
+1331,Fresno,CA
+1332,Honolulu,HI
+1333,Houston,TX
+1334,Indianapolis,IN
+1335,Jacksonville,FL
+1336,Kansas City,MO
+1337,Las Vegas,NV
+1338,Long Beach,CA
+1339,Los Angeles County,CA
+1340,Los Angeles,CA
+1342,Memphis,TN
+1343,Mesa,AZ
+1344,Miami-Dade County,FL
+1345,Miami,FL
+1346,Milwaukee,WI
+1347,Minneapolis,MN
+1348,Montgomery County,MD
+1349,Nashville,TN
+1350,Nassau County,NY
+1351,New Orleans,LA
+1352,New York City,NY
+1353,Newark,NJ
+1354,Oakland,CA
+1355,Oklahoma City,OK
+1356,Omaha,NE
+1357,Orlando,FL
+1358,Philadelphia,PA
+1359,Phoenix,AZ
+1360,Pittsburgh,PA
+1361,Portland,OR
+1362,Prince George's County,MD
+1363,Raleigh,NC
+1364,Sacramento,CA
+1365,Salt Lake City,UT
+1366,San Antonio,TX
+1367,San Diego,CA
+1368,San Francisco,CA
+1369,San Jose,CA
+1370,Seattle,WA
+1371,St. Louis,MO
+1372,Suffolk County,NY
+1373,Tampa,FL
+1374,Tucson,AZ
+1375,Tulsa,OK
+1376,Virginia Beach,VA
+1377,Washington,DC
+1378,Wichita,KS
+1380,Albuquerque,NM
+1381,Arlington,TX
+1382,Atlanta,GA
+1383,Aurora,CO
+1384,Austin,TX
+1385,Baltimore County,MD
+1386,Baltimore,MD
+1387,Boston,MA
+1388,Buffalo,NY
+1389,Charlotte,NC
+1390,Chicago,IL
+1391,Cincinnati,OH
+1392,Cleveland,OH
+1393,Columbus,OH
+1394,Dallas,TX
+1395,Denver,CO
+1396,Detroit,MI
+1397,El Paso,TX
+1398,Fairfax County,VA
+1399,Fort Worth,TX
+1400,Fresno,CA
+1401,Honolulu,HI
+1402,Houston,TX
+1403,Indianapolis,IN
+1404,Jacksonville,FL
+1405,Kansas City,MO
+1406,Las Vegas,NV
+1407,Long Beach,CA
+1408,Los Angeles County,CA
+1409,Los Angeles,CA
+1411,Memphis,TN
+1412,Mesa,AZ
+1413,Miami-Dade County,FL
+1414,Miami,FL
+1415,Milwaukee,WI
+1416,Minneapolis,MN
+1417,Montgomery County,MD
+1418,Nashville,TN
+1419,Nassau County,NY
+1420,New Orleans,LA
+1421,New York City,NY
+1422,Newark,NJ
+1423,Oakland,CA
+1424,Oklahoma City,OK
+1425,Omaha,NE
+1426,Orlando,FL
+1427,Philadelphia,PA
+1428,Phoenix,AZ
+1429,Pittsburgh,PA
+1430,Portland,OR
+1431,Prince George's County,MD
+1432,Raleigh,NC
+1433,Sacramento,CA
+1434,Salt Lake City,UT
+1435,San Antonio,TX
+1436,San Diego,CA
+1437,San Francisco,CA
+1438,San Jose,CA
+1439,Seattle,WA
+1440,St. Louis,MO
+1441,Suffolk County,NY
+1442,Tampa,FL
+1443,Tucson,AZ
+1444,Tulsa,OK
+1445,Virginia Beach,VA
+1446,Washington,DC
+1447,Wichita,KS
+1449,Albuquerque,NM
+1450,Arlington,TX
+1451,Atlanta,GA
+1452,Aurora,CO
+1453,Austin,TX
+1454,Baltimore County,MD
+1455,Baltimore,MD
+1456,Boston,MA
+1457,Buffalo,NY
+1458,Charlotte,NC
+1459,Chicago,IL
+1460,Cincinnati,OH
+1461,Cleveland,OH
+1462,Columbus,OH
+1463,Dallas,TX
+1464,Denver,CO
+1465,Detroit,MI
+1466,El Paso,TX
+1467,Fairfax County,VA
+1468,Fort Worth,TX
+1469,Fresno,CA
+1470,Honolulu,HI
+1471,Houston,TX
+1472,Indianapolis,IN
+1473,Jacksonville,FL
+1474,Kansas City,MO
+1475,Las Vegas,NV
+1476,Long Beach,CA
+1477,Los Angeles County,CA
+1478,Los Angeles,CA
+1480,Memphis,TN
+1481,Mesa,AZ
+1482,Miami-Dade County,FL
+1483,Miami,FL
+1484,Milwaukee,WI
+1485,Minneapolis,MN
+1486,Montgomery County,MD
+1487,Nashville,TN
+1488,Nassau County,NY
+1489,New Orleans,LA
+1490,New York City,NY
+1491,Newark,NJ
+1492,Oakland,CA
+1493,Oklahoma City,OK
+1494,Omaha,NE
+1495,Orlando,FL
+1496,Philadelphia,PA
+1497,Phoenix,AZ
+1498,Pittsburgh,PA
+1499,Portland,OR
+1500,Prince George's County,MD
+1501,Raleigh,NC
+1502,Sacramento,CA
+1503,Salt Lake City,UT
+1504,San Antonio,TX
+1505,San Diego,CA
+1506,San Francisco,CA
+1507,San Jose,CA
+1508,Seattle,WA
+1509,St. Louis,MO
+1510,Suffolk County,NY
+1511,Tampa,FL
+1512,Tucson,AZ
+1513,Tulsa,OK
+1514,Virginia Beach,VA
+1515,Washington,DC
+1516,Wichita,KS
+1518,Albuquerque,NM
+1519,Arlington,TX
+1520,Atlanta,GA
+1521,Aurora,CO
+1522,Austin,TX
+1523,Baltimore County,MD
+1524,Baltimore,MD
+1525,Boston,MA
+1526,Buffalo,NY
+1527,Charlotte,NC
+1528,Chicago,IL
+1530,Cleveland,OH
+1531,Columbus,OH
+1532,Dallas,TX
+1533,Denver,CO
+1534,Detroit,MI
+1535,El Paso,TX
+1536,Fairfax County,VA
+1537,Fort Worth,TX
+1538,Fresno,CA
+1539,Honolulu,HI
+1540,Houston,TX
+1541,Indianapolis,IN
+1542,Jacksonville,FL
+1543,Kansas City,MO
+1544,Las Vegas,NV
+1545,Long Beach,CA
+1546,Los Angeles County,CA
+1547,Los Angeles,CA
+1549,Memphis,TN
+1550,Mesa,AZ
+1551,Miami-Dade County,FL
+1552,Miami,FL
+1553,Milwaukee,WI
+1554,Minneapolis,MN
+1555,Montgomery County,MD
+1556,Nashville,TN
+1557,Nassau County,NY
+1558,New Orleans,LA
+1559,New York City,NY
+1560,Newark,NJ
+1561,Oakland,CA
+1562,Oklahoma City,OK
+1563,Omaha,NE
+1564,Orlando,FL
+1565,Philadelphia,PA
+1566,Phoenix,AZ
+1567,Pittsburgh,PA
+1568,Portland,OR
+1569,Prince George's County,MD
+1570,Raleigh,NC
+1571,Sacramento,CA
+1572,Salt Lake City,UT
+1573,San Antonio,TX
+1574,San Diego,CA
+1575,San Francisco,CA
+1576,San Jose,CA
+1577,Seattle,WA
+1578,St. Louis,MO
+1579,Suffolk County,NY
+1580,Tampa,FL
+1581,Tucson,AZ
+1582,Tulsa,OK
+1583,Virginia Beach,VA
+1584,Washington,DC
+1585,Wichita,KS
+1587,Albuquerque,NM
+1588,Arlington,TX
+1589,Atlanta,GA
+1590,Aurora,CO
+1591,Austin,TX
+1592,Baltimore County,MD
+1593,Baltimore,MD
+1594,Boston,MA
+1595,Buffalo,NY
+1596,Charlotte,NC
+1597,Chicago,IL
+1599,Cleveland,OH
+1600,Columbus,OH
+1601,Dallas,TX
+1602,Denver,CO
+1603,Detroit,MI
+1604,El Paso,TX
+1605,Fairfax County,VA
+1606,Fort Worth,TX
+1607,Fresno,CA
+1608,Honolulu,HI
+1609,Houston,TX
+1610,Indianapolis,IN
+1611,Jacksonville,FL
+1612,Kansas City,MO
+1613,Las Vegas,NV
+1614,Long Beach,CA
+1615,Los Angeles County,CA
+1616,Los Angeles,CA
+1618,Memphis,TN
+1619,Mesa,AZ
+1620,Miami-Dade County,FL
+1621,Miami,FL
+1622,Milwaukee,WI
+1623,Minneapolis,MN
+1624,Montgomery County,MD
+1625,Nashville,TN
+1626,Nassau County,NY
+1627,New Orleans,LA
+1628,New York City,NY
+1629,Newark,NJ
+1630,Oakland,CA
+1631,Oklahoma City,OK
+1632,Omaha,NE
+1633,Orlando,FL
+1634,Philadelphia,PA
+1635,Phoenix,AZ
+1636,Pittsburgh,PA
+1637,Portland,OR
+1638,Prince George's County,MD
+1639,Raleigh,NC
+1640,Sacramento,CA
+1641,Salt Lake City,UT
+1642,San Antonio,TX
+1643,San Diego,CA
+1644,San Francisco,CA
+1645,San Jose,CA
+1646,Seattle,WA
+1647,St. Louis,MO
+1648,Suffolk County,NY
+1649,Tampa,FL
+1650,Tucson,AZ
+1651,Tulsa,OK
+1652,Virginia Beach,VA
+1653,Washington,DC
+1654,Wichita,KS
+1656,Albuquerque,NM
+1657,Arlington,TX
+1658,Atlanta,GA
+1659,Aurora,CO
+1660,Austin,TX
+1661,Baltimore County,MD
+1662,Baltimore,MD
+1663,Boston,MA
+1664,Buffalo,NY
+1665,Charlotte,NC
+1666,Chicago,IL
+1667,Cincinnati,OH
+1668,Cleveland,OH
+1669,Columbus,OH
+1670,Dallas,TX
+1671,Denver,CO
+1672,Detroit,MI
+1673,El Paso,TX
+1674,Fairfax County,VA
+1675,Fort Worth,TX
+1676,Fresno,CA
+1677,Honolulu,HI
+1678,Houston,TX
+1679,Indianapolis,IN
+1680,Jacksonville,FL
+1681,Kansas City,MO
+1682,Las Vegas,NV
+1683,Long Beach,CA
+1684,Los Angeles County,CA
+1685,Los Angeles,CA
+1687,Memphis,TN
+1688,Mesa,AZ
+1689,Miami-Dade County,FL
+1690,Miami,FL
+1691,Milwaukee,WI
+1692,Minneapolis,MN
+1693,Montgomery County,MD
+1694,Nashville,TN
+1695,Nassau County,NY
+1696,New Orleans,LA
+1697,New York City,NY
+1698,Newark,NJ
+1699,Oakland,CA
+1700,Oklahoma City,OK
+1701,Omaha,NE
+1702,Orlando,FL
+1703,Philadelphia,PA
+1704,Phoenix,AZ
+1705,Pittsburgh,PA
+1706,Portland,OR
+1707,Prince George's County,MD
+1708,Raleigh,NC
+1709,Sacramento,CA
+1710,Salt Lake City,UT
+1711,San Antonio,TX
+1712,San Diego,CA
+1713,San Francisco,CA
+1714,San Jose,CA
+1715,Seattle,WA
+1716,St. Louis,MO
+1717,Suffolk County,NY
+1718,Tampa,FL
+1719,Tucson,AZ
+1720,Tulsa,OK
+1721,Virginia Beach,VA
+1722,Washington,DC
+1723,Wichita,KS
+1725,Albuquerque,NM
+1726,Arlington,TX
+1727,Atlanta,GA
+1728,Aurora,CO
+1729,Austin,TX
+1730,Baltimore County,MD
+1731,Baltimore,MD
+1732,Boston,MA
+1733,Buffalo,NY
+1734,Charlotte,NC
+1735,Chicago,IL
+1736,Cincinnati,OH
+1737,Cleveland,OH
+1738,Columbus,OH
+1739,Dallas,TX
+1740,Denver,CO
+1741,Detroit,MI
+1742,El Paso,TX
+1743,Fairfax County,VA
+1744,Fort Worth,TX
+1745,Fresno,CA
+1746,Honolulu,HI
+1747,Houston,TX
+1748,Indianapolis,IN
+1749,Jacksonville,FL
+1750,Kansas City,MO
+1751,Las Vegas,NV
+1752,Long Beach,CA
+1753,Los Angeles County,CA
+1754,Los Angeles,CA
+1756,Memphis,TN
+1757,Mesa,AZ
+1758,Miami-Dade County,FL
+1759,Miami,FL
+1760,Milwaukee,WI
+1761,Minneapolis,MN
+1762,Montgomery County,MD
+1763,Nashville,TN
+1764,Nassau County,NY
+1765,New Orleans,LA
+1766,New York City,NY
+1767,Newark,NJ
+1768,Oakland,CA
+1769,Oklahoma City,OK
+1770,Omaha,NE
+1771,Orlando,FL
+1772,Philadelphia,PA
+1773,Phoenix,AZ
+1774,Pittsburgh,PA
+1775,Portland,OR
+1776,Prince George's County,MD
+1777,Raleigh,NC
+1778,Sacramento,CA
+1779,Salt Lake City,UT
+1780,San Antonio,TX
+1781,San Diego,CA
+1782,San Francisco,CA
+1783,San Jose,CA
+1784,Seattle,WA
+1785,St. Louis,MO
+1786,Suffolk County,NY
+1787,Tampa,FL
+1788,Tucson,AZ
+1789,Tulsa,OK
+1790,Virginia Beach,VA
+1791,Washington,DC
+1792,Wichita,KS
+1794,Albuquerque,NM
+1795,Arlington,TX
+1796,Atlanta,GA
+1797,Aurora,CO
+1798,Austin,TX
+1799,Baltimore County,MD
+1800,Baltimore,MD
+1801,Boston,MA
+1802,Buffalo,NY
+1803,Charlotte,NC
+1804,Chicago,IL
+1805,Cincinnati,OH
+1806,Cleveland,OH
+1807,Columbus,OH
+1808,Dallas,TX
+1809,Denver,CO
+1810,Detroit,MI
+1811,El Paso,TX
+1812,Fairfax County,VA
+1813,Fort Worth,TX
+1814,Fresno,CA
+1815,Honolulu,HI
+1816,Houston,TX
+1817,Indianapolis,IN
+1818,Jacksonville,FL
+1819,Kansas City,MO
+1820,Las Vegas,NV
+1821,Long Beach,CA
+1822,Los Angeles County,CA
+1823,Los Angeles,CA
+1825,Memphis,TN
+1826,Mesa,AZ
+1827,Miami-Dade County,FL
+1828,Miami,FL
+1829,Milwaukee,WI
+1830,Minneapolis,MN
+1831,Montgomery County,MD
+1832,Nashville,TN
+1833,Nassau County,NY
+1834,New Orleans,LA
+1835,New York City,NY
+1836,Newark,NJ
+1837,Oakland,CA
+1838,Oklahoma City,OK
+1839,Omaha,NE
+1840,Orlando,FL
+1841,Philadelphia,PA
+1842,Phoenix,AZ
+1843,Pittsburgh,PA
+1844,Portland,OR
+1845,Prince George's County,MD
+1846,Raleigh,NC
+1847,Sacramento,CA
+1848,Salt Lake City,UT
+1849,San Antonio,TX
+1850,San Diego,CA
+1851,San Francisco,CA
+1852,San Jose,CA
+1853,Seattle,WA
+1854,St. Louis,MO
+1855,Suffolk County,NY
+1856,Tampa,FL
+1857,Tucson,AZ
+1858,Tulsa,OK
+1859,Virginia Beach,VA
+1860,Washington,DC
+1861,Wichita,KS
+1863,Albuquerque,NM
+1864,Arlington,TX
+1865,Atlanta,GA
+1866,Aurora,CO
+1867,Austin,TX
+1868,Baltimore County,MD
+1869,Baltimore,MD
+1870,Boston,MA
+1871,Buffalo,NY
+1872,Charlotte,NC
+1873,Chicago,IL
+1874,Cincinnati,OH
+1875,Cleveland,OH
+1876,Columbus,OH
+1877,Dallas,TX
+1878,Denver,CO
+1879,Detroit,MI
+1880,El Paso,TX
+1881,Fairfax County,VA
+1882,Fort Worth,TX
+1883,Fresno,CA
+1884,Honolulu,HI
+1885,Houston,TX
+1886,Indianapolis,IN
+1887,Jacksonville,FL
+1888,Kansas City,MO
+1889,Las Vegas,NV
+1890,Long Beach,CA
+1891,Los Angeles County,CA
+1892,Los Angeles,CA
+1894,Memphis,TN
+1895,Mesa,AZ
+1896,Miami-Dade County,FL
+1897,Miami,FL
+1898,Milwaukee,WI
+1899,Minneapolis,MN
+1900,Montgomery County,MD
+1901,Nashville,TN
+1902,Nassau County,NY
+1903,New Orleans,LA
+1904,New York City,NY
+1905,Newark,NJ
+1906,Oakland,CA
+1907,Oklahoma City,OK
+1908,Omaha,NE
+1909,Orlando,FL
+1910,Philadelphia,PA
+1911,Phoenix,AZ
+1912,Pittsburgh,PA
+1913,Portland,OR
+1914,Prince George's County,MD
+1915,Raleigh,NC
+1916,Sacramento,CA
+1917,Salt Lake City,UT
+1918,San Antonio,TX
+1919,San Diego,CA
+1920,San Francisco,CA
+1921,San Jose,CA
+1922,Seattle,WA
+1923,St. Louis,MO
+1924,Suffolk County,NY
+1925,Tampa,FL
+1926,Tucson,AZ
+1927,Tulsa,OK
+1928,Virginia Beach,VA
+1929,Washington,DC
+1930,Wichita,KS
+1932,Albuquerque,NM
+1933,Arlington,TX
+1934,Atlanta,GA
+1935,Aurora,CO
+1936,Austin,TX
+1937,Baltimore County,MD
+1938,Baltimore,MD
+1939,Boston,MA
+1940,Buffalo,NY
+1941,Charlotte,NC
+1942,Chicago,IL
+1943,Cincinnati,OH
+1944,Cleveland,OH
+1945,Columbus,OH
+1946,Dallas,TX
+1947,Denver,CO
+1948,Detroit,MI
+1949,El Paso,TX
+1950,Fairfax County,VA
+1951,Fort Worth,TX
+1952,Fresno,CA
+1953,Honolulu,HI
+1954,Houston,TX
+1955,Indianapolis,IN
+1956,Jacksonville,FL
+1957,Kansas City,MO
+1958,Las Vegas,NV
+1959,Long Beach,CA
+1960,Los Angeles County,CA
+1961,Los Angeles,CA
+1962,Louisville,KY
+1963,Memphis,TN
+1964,Mesa,AZ
+1965,Miami-Dade County,FL
+1966,Miami,FL
+1967,Milwaukee,WI
+1968,Minneapolis,MN
+1969,Montgomery County,MD
+1970,Nashville,TN
+1971,Nassau County,NY
+1972,New Orleans,LA
+1973,New York City,NY
+1974,Newark,NJ
+1975,Oakland,CA
+1976,Oklahoma City,OK
+1977,Omaha,NE
+1978,Orlando,FL
+1979,Philadelphia,PA
+1980,Phoenix,AZ
+1981,Pittsburgh,PA
+1982,Portland,OR
+1983,Prince George's County,MD
+1984,Raleigh,NC
+1985,Sacramento,CA
+1986,Salt Lake City,UT
+1987,San Antonio,TX
+1988,San Diego,CA
+1989,San Francisco,CA
+1990,San Jose,CA
+1991,Seattle,WA
+1992,St. Louis,MO
+1993,Suffolk County,NY
+1994,Tampa,FL
+1995,Tucson,AZ
+1996,Tulsa,OK
+1997,Virginia Beach,VA
+1998,Washington,DC
+1999,Wichita,KS
+2001,Albuquerque,NM
+2002,Arlington,TX
+2003,Atlanta,GA
+2004,Aurora,CO
+2005,Austin,TX
+2006,Baltimore County,MD
+2007,Baltimore,MD
+2008,Boston,MA
+2009,Buffalo,NY
+2010,Charlotte,NC
+2011,Chicago,IL
+2012,Cincinnati,OH
+2013,Cleveland,OH
+2014,Columbus,OH
+2015,Dallas,TX
+2016,Denver,CO
+2017,Detroit,MI
+2018,El Paso,TX
+2019,Fairfax County,VA
+2020,Fort Worth,TX
+2021,Fresno,CA
+2022,Honolulu,HI
+2023,Houston,TX
+2024,Indianapolis,IN
+2025,Jacksonville,FL
+2026,Kansas City,MO
+2027,Las Vegas,NV
+2028,Long Beach,CA
+2029,Los Angeles County,CA
+2030,Los Angeles,CA
+2031,Louisville,KY
+2032,Memphis,TN
+2033,Mesa,AZ
+2034,Miami-Dade County,FL
+2035,Miami,FL
+2036,Milwaukee,WI
+2037,Minneapolis,MN
+2038,Montgomery County,MD
+2039,Nashville,TN
+2040,Nassau County,NY
+2041,New Orleans,LA
+2042,New York City,NY
+2043,Newark,NJ
+2044,Oakland,CA
+2045,Oklahoma City,OK
+2046,Omaha,NE
+2047,Orlando,FL
+2048,Philadelphia,PA
+2049,Phoenix,AZ
+2050,Pittsburgh,PA
+2051,Portland,OR
+2052,Prince George's County,MD
+2053,Raleigh,NC
+2054,Sacramento,CA
+2055,Salt Lake City,UT
+2056,San Antonio,TX
+2057,San Diego,CA
+2058,San Francisco,CA
+2059,San Jose,CA
+2060,Seattle,WA
+2061,St. Louis,MO
+2062,Suffolk County,NY
+2063,Tampa,FL
+2064,Tucson,AZ
+2065,Tulsa,OK
+2066,Virginia Beach,VA
+2067,Washington,DC
+2068,Wichita,KS
+2070,Albuquerque,NM
+2071,Arlington,TX
+2072,Atlanta,GA
+2073,Aurora,CO
+2074,Austin,TX
+2075,Baltimore County,MD
+2076,Baltimore,MD
+2077,Boston,MA
+2078,Buffalo,NY
+2079,Charlotte,NC
+2080,Chicago,IL
+2081,Cincinnati,OH
+2082,Cleveland,OH
+2083,Columbus,OH
+2084,Dallas,TX
+2085,Denver,CO
+2086,Detroit,MI
+2087,El Paso,TX
+2088,Fairfax County,VA
+2089,Fort Worth,TX
+2090,Fresno,CA
+2091,Honolulu,HI
+2092,Houston,TX
+2093,Indianapolis,IN
+2094,Jacksonville,FL
+2095,Kansas City,MO
+2096,Las Vegas,NV
+2097,Long Beach,CA
+2098,Los Angeles County,CA
+2099,Los Angeles,CA
+2100,Louisville,KY
+2101,Memphis,TN
+2102,Mesa,AZ
+2103,Miami-Dade County,FL
+2104,Miami,FL
+2105,Milwaukee,WI
+2106,Minneapolis,MN
+2107,Montgomery County,MD
+2108,Nashville,TN
+2109,Nassau County,NY
+2110,New Orleans,LA
+2111,New York City,NY
+2112,Newark,NJ
+2113,Oakland,CA
+2114,Oklahoma City,OK
+2115,Omaha,NE
+2116,Orlando,FL
+2117,Philadelphia,PA
+2118,Phoenix,AZ
+2119,Pittsburgh,PA
+2120,Portland,OR
+2121,Prince George's County,MD
+2122,Raleigh,NC
+2123,Sacramento,CA
+2124,Salt Lake City,UT
+2125,San Antonio,TX
+2126,San Diego,CA
+2127,San Francisco,CA
+2128,San Jose,CA
+2129,Seattle,WA
+2130,St. Louis,MO
+2131,Suffolk County,NY
+2132,Tampa,FL
+2133,Tucson,AZ
+2134,Tulsa,OK
+2135,Virginia Beach,VA
+2136,Washington,DC
+2137,Wichita,KS
+2139,Albuquerque,NM
+2140,Arlington,TX
+2141,Atlanta,GA
+2142,Aurora,CO
+2143,Austin,TX
+2144,Baltimore County,MD
+2145,Baltimore,MD
+2146,Boston,MA
+2147,Buffalo,NY
+2148,Charlotte,NC
+2149,Chicago,IL
+2150,Cincinnati,OH
+2151,Cleveland,OH
+2152,Columbus,OH
+2153,Dallas,TX
+2154,Denver,CO
+2155,Detroit,MI
+2156,El Paso,TX
+2157,Fairfax County,VA
+2158,Fort Worth,TX
+2159,Fresno,CA
+2160,Honolulu,HI
+2161,Houston,TX
+2162,Indianapolis,IN
+2163,Jacksonville,FL
+2164,Kansas City,MO
+2165,Las Vegas,NV
+2166,Long Beach,CA
+2167,Los Angeles County,CA
+2168,Los Angeles,CA
+2169,Louisville,KY
+2170,Memphis,TN
+2171,Mesa,AZ
+2172,Miami-Dade County,FL
+2173,Miami,FL
+2174,Milwaukee,WI
+2175,Minneapolis,MN
+2176,Montgomery County,MD
+2177,Nashville,TN
+2178,Nassau County,NY
+2179,New Orleans,LA
+2180,New York City,NY
+2181,Newark,NJ
+2182,Oakland,CA
+2183,Oklahoma City,OK
+2184,Omaha,NE
+2185,Orlando,FL
+2186,Philadelphia,PA
+2187,Phoenix,AZ
+2188,Pittsburgh,PA
+2189,Portland,OR
+2190,Prince George's County,MD
+2191,Raleigh,NC
+2192,Sacramento,CA
+2193,Salt Lake City,UT
+2194,San Antonio,TX
+2195,San Diego,CA
+2196,San Francisco,CA
+2197,San Jose,CA
+2198,Seattle,WA
+2199,St. Louis,MO
+2200,Suffolk County,NY
+2201,Tampa,FL
+2202,Tucson,AZ
+2203,Tulsa,OK
+2204,Virginia Beach,VA
+2205,Washington,DC
+2206,Wichita,KS
+2208,Albuquerque,NM
+2209,Arlington,TX
+2210,Atlanta,GA
+2211,Aurora,CO
+2212,Austin,TX
+2213,Baltimore County,MD
+2214,Baltimore,MD
+2215,Boston,MA
+2216,Buffalo,NY
+2217,Charlotte,NC
+2218,Chicago,IL
+2219,Cincinnati,OH
+2220,Cleveland,OH
+2221,Columbus,OH
+2222,Dallas,TX
+2223,Denver,CO
+2224,Detroit,MI
+2225,El Paso,TX
+2226,Fairfax County,VA
+2227,Fort Worth,TX
+2228,Fresno,CA
+2229,Honolulu,HI
+2230,Houston,TX
+2231,Indianapolis,IN
+2232,Jacksonville,FL
+2233,Kansas City,MO
+2234,Las Vegas,NV
+2235,Long Beach,CA
+2236,Los Angeles County,CA
+2237,Los Angeles,CA
+2238,Louisville,KY
+2239,Memphis,TN
+2240,Mesa,AZ
+2241,Miami-Dade County,FL
+2242,Miami,FL
+2243,Milwaukee,WI
+2244,Minneapolis,MN
+2245,Montgomery County,MD
+2246,Nashville,TN
+2247,Nassau County,NY
+2248,New Orleans,LA
+2249,New York City,NY
+2250,Newark,NJ
+2251,Oakland,CA
+2252,Oklahoma City,OK
+2253,Omaha,NE
+2254,Orlando,FL
+2255,Philadelphia,PA
+2256,Phoenix,AZ
+2257,Pittsburgh,PA
+2258,Portland,OR
+2259,Prince George's County,MD
+2260,Raleigh,NC
+2261,Sacramento,CA
+2262,Salt Lake City,UT
+2263,San Antonio,TX
+2264,San Diego,CA
+2265,San Francisco,CA
+2266,San Jose,CA
+2267,Seattle,WA
+2268,St. Louis,MO
+2269,Suffolk County,NY
+2270,Tampa,FL
+2271,Tucson,AZ
+2272,Tulsa,OK
+2273,Virginia Beach,VA
+2274,Washington,DC
+2275,Wichita,KS
+2277,Albuquerque,NM
+2278,Arlington,TX
+2279,Atlanta,GA
+2280,Aurora,CO
+2281,Austin,TX
+2282,Baltimore County,MD
+2283,Baltimore,MD
+2284,Boston,MA
+2285,Buffalo,NY
+2286,Charlotte,NC
+2287,Chicago,IL
+2288,Cincinnati,OH
+2289,Cleveland,OH
+2290,Columbus,OH
+2291,Dallas,TX
+2292,Denver,CO
+2293,Detroit,MI
+2294,El Paso,TX
+2295,Fairfax County,VA
+2296,Fort Worth,TX
+2297,Fresno,CA
+2298,Honolulu,HI
+2299,Houston,TX
+2300,Indianapolis,IN
+2301,Jacksonville,FL
+2302,Kansas City,MO
+2303,Las Vegas,NV
+2304,Long Beach,CA
+2305,Los Angeles County,CA
+2306,Los Angeles,CA
+2307,Louisville,KY
+2308,Memphis,TN
+2309,Mesa,AZ
+2310,Miami-Dade County,FL
+2311,Miami,FL
+2312,Milwaukee,WI
+2313,Minneapolis,MN
+2314,Montgomery County,MD
+2315,Nashville,TN
+2316,Nassau County,NY
+2317,New Orleans,LA
+2318,New York City,NY
+2319,Newark,NJ
+2320,Oakland,CA
+2321,Oklahoma City,OK
+2322,Omaha,NE
+2323,Orlando,FL
+2324,Philadelphia,PA
+2325,Phoenix,AZ
+2326,Pittsburgh,PA
+2327,Portland,OR
+2328,Prince George's County,MD
+2329,Raleigh,NC
+2330,Sacramento,CA
+2331,Salt Lake City,UT
+2332,San Antonio,TX
+2333,San Diego,CA
+2334,San Francisco,CA
+2335,San Jose,CA
+2336,Seattle,WA
+2337,St. Louis,MO
+2338,Suffolk County,NY
+2339,Tampa,FL
+2340,Tucson,AZ
+2341,Tulsa,OK
+2342,Virginia Beach,VA
+2343,Washington,DC
+2344,Wichita,KS
+2346,Albuquerque,NM
+2347,Arlington,TX
+2348,Atlanta,GA
+2349,Aurora,CO
+2350,Austin,TX
+2351,Baltimore County,MD
+2352,Baltimore,MD
+2353,Boston,MA
+2354,Buffalo,NY
+2355,Charlotte,NC
+2356,Chicago,IL
+2357,Cincinnati,OH
+2358,Cleveland,OH
+2359,Columbus,OH
+2360,Dallas,TX
+2361,Denver,CO
+2362,Detroit,MI
+2363,El Paso,TX
+2364,Fairfax County,VA
+2365,Fort Worth,TX
+2366,Fresno,CA
+2367,Honolulu,HI
+2368,Houston,TX
+2369,Indianapolis,IN
+2370,Jacksonville,FL
+2371,Kansas City,MO
+2372,Las Vegas,NV
+2373,Long Beach,CA
+2374,Los Angeles County,CA
+2375,Los Angeles,CA
+2376,Louisville,KY
+2377,Memphis,TN
+2378,Mesa,AZ
+2379,Miami-Dade County,FL
+2380,Miami,FL
+2381,Milwaukee,WI
+2382,Minneapolis,MN
+2383,Montgomery County,MD
+2384,Nashville,TN
+2385,Nassau County,NY
+2386,New Orleans,LA
+2387,New York City,NY
+2388,Newark,NJ
+2389,Oakland,CA
+2390,Oklahoma City,OK
+2391,Omaha,NE
+2392,Orlando,FL
+2393,Philadelphia,PA
+2394,Phoenix,AZ
+2395,Pittsburgh,PA
+2396,Portland,OR
+2397,Prince George's County,MD
+2398,Raleigh,NC
+2399,Sacramento,CA
+2400,Salt Lake City,UT
+2401,San Antonio,TX
+2402,San Diego,CA
+2403,San Francisco,CA
+2404,San Jose,CA
+2405,Seattle,WA
+2406,St. Louis,MO
+2407,Suffolk County,NY
+2408,Tampa,FL
+2409,Tucson,AZ
+2410,Tulsa,OK
+2411,Virginia Beach,VA
+2412,Washington,DC
+2413,Wichita,KS
+2415,Albuquerque,NM
+2416,Arlington,TX
+2417,Atlanta,GA
+2418,Aurora,CO
+2419,Austin,TX
+2420,Baltimore County,MD
+2421,Baltimore,MD
+2422,Boston,MA
+2423,Buffalo,NY
+2424,Charlotte,NC
+2425,Chicago,IL
+2426,Cincinnati,OH
+2427,Cleveland,OH
+2428,Columbus,OH
+2429,Dallas,TX
+2430,Denver,CO
+2431,Detroit,MI
+2432,El Paso,TX
+2433,Fairfax County,VA
+2434,Fort Worth,TX
+2435,Fresno,CA
+2436,Honolulu,HI
+2437,Houston,TX
+2438,Indianapolis,IN
+2439,Jacksonville,FL
+2440,Kansas City,MO
+2441,Las Vegas,NV
+2442,Long Beach,CA
+2443,Los Angeles County,CA
+2444,Los Angeles,CA
+2445,Louisville,KY
+2446,Memphis,TN
+2447,Mesa,AZ
+2448,Miami-Dade County,FL
+2449,Miami,FL
+2450,Milwaukee,WI
+2451,Minneapolis,MN
+2452,Montgomery County,MD
+2453,Nashville,TN
+2454,Nassau County,NY
+2455,New Orleans,LA
+2456,New York City,NY
+2457,Newark,NJ
+2458,Oakland,CA
+2459,Oklahoma City,OK
+2460,Omaha,NE
+2461,Orlando,FL
+2462,Philadelphia,PA
+2463,Phoenix,AZ
+2464,Pittsburgh,PA
+2465,Portland,OR
+2466,Prince George's County,MD
+2467,Raleigh,NC
+2468,Sacramento,CA
+2469,Salt Lake City,UT
+2470,San Antonio,TX
+2471,San Diego,CA
+2472,San Francisco,CA
+2473,San Jose,CA
+2474,Seattle,WA
+2475,St. Louis,MO
+2476,Suffolk County,NY
+2477,Tampa,FL
+2478,Tucson,AZ
+2479,Tulsa,OK
+2480,Virginia Beach,VA
+2481,Washington,DC
+2482,Wichita,KS
+2484,Albuquerque,NM
+2485,Arlington,TX
+2486,Atlanta,GA
+2487,Aurora,CO
+2488,Austin,TX
+2489,Baltimore County,MD
+2490,Baltimore,MD
+2491,Boston,MA
+2492,Buffalo,NY
+2493,Charlotte,NC
+2494,Chicago,IL
+2495,Cincinnati,OH
+2496,Cleveland,OH
+2497,Columbus,OH
+2498,Dallas,TX
+2499,Denver,CO
+2500,Detroit,MI
+2501,El Paso,TX
+2502,Fairfax County,VA
+2503,Fort Worth,TX
+2504,Fresno,CA
+2505,Honolulu,HI
+2506,Houston,TX
+2507,Indianapolis,IN
+2508,Jacksonville,FL
+2509,Kansas City,MO
+2510,Las Vegas,NV
+2511,Long Beach,CA
+2512,Los Angeles County,CA
+2513,Los Angeles,CA
+2514,Louisville,KY
+2515,Memphis,TN
+2516,Mesa,AZ
+2517,Miami-Dade County,FL
+2518,Miami,FL
+2519,Milwaukee,WI
+2520,Minneapolis,MN
+2521,Montgomery County,MD
+2522,Nashville,TN
+2523,Nassau County,NY
+2524,New Orleans,LA
+2525,New York City,NY
+2526,Newark,NJ
+2527,Oakland,CA
+2528,Oklahoma City,OK
+2529,Omaha,NE
+2530,Orlando,FL
+2531,Philadelphia,PA
+2532,Phoenix,AZ
+2533,Pittsburgh,PA
+2534,Portland,OR
+2535,Prince George's County,MD
+2536,Raleigh,NC
+2537,Sacramento,CA
+2538,Salt Lake City,UT
+2539,San Antonio,TX
+2540,San Diego,CA
+2541,San Francisco,CA
+2542,San Jose,CA
+2543,Seattle,WA
+2544,St. Louis,MO
+2545,Suffolk County,NY
+2546,Tampa,FL
+2547,Tucson,AZ
+2548,Tulsa,OK
+2549,Virginia Beach,VA
+2550,Washington,DC
+2551,Wichita,KS
+2553,Albuquerque,NM
+2554,Arlington,TX
+2555,Atlanta,GA
+2556,Aurora,CO
+2557,Austin,TX
+2558,Baltimore County,MD
+2559,Baltimore,MD
+2560,Boston,MA
+2561,Buffalo,NY
+2562,Charlotte,NC
+2563,Chicago,IL
+2564,Cincinnati,OH
+2565,Cleveland,OH
+2566,Columbus,OH
+2567,Dallas,TX
+2568,Denver,CO
+2569,Detroit,MI
+2570,El Paso,TX
+2571,Fairfax County,VA
+2572,Fort Worth,TX
+2573,Fresno,CA
+2574,Honolulu,HI
+2575,Houston,TX
+2576,Indianapolis,IN
+2577,Jacksonville,FL
+2578,Kansas City,MO
+2579,Las Vegas,NV
+2580,Long Beach,CA
+2581,Los Angeles County,CA
+2582,Los Angeles,CA
+2583,Louisville,KY
+2584,Memphis,TN
+2585,Mesa,AZ
+2586,Miami-Dade County,FL
+2587,Miami,FL
+2588,Milwaukee,WI
+2589,Minneapolis,MN
+2590,Montgomery County,MD
+2591,Nashville,TN
+2592,Nassau County,NY
+2593,New Orleans,LA
+2594,New York City,NY
+2595,Newark,NJ
+2596,Oakland,CA
+2597,Oklahoma City,OK
+2598,Omaha,NE
+2599,Orlando,FL
+2600,Philadelphia,PA
+2601,Phoenix,AZ
+2602,Pittsburgh,PA
+2603,Portland,OR
+2604,Prince George's County,MD
+2605,Raleigh,NC
+2606,Sacramento,CA
+2607,Salt Lake City,UT
+2608,San Antonio,TX
+2609,San Diego,CA
+2610,San Francisco,CA
+2611,San Jose,CA
+2612,Seattle,WA
+2613,St. Louis,MO
+2614,Suffolk County,NY
+2615,Tampa,FL
+2616,Tucson,AZ
+2617,Tulsa,OK
+2618,Virginia Beach,VA
+2619,Washington,DC
+2620,Wichita,KS
+2622,Albuquerque,NM
+2623,Arlington,TX
+2624,Atlanta,GA
+2625,Aurora,CO
+2626,Austin,TX
+2627,Baltimore County,MD
+2628,Baltimore,MD
+2629,Boston,MA
+2630,Buffalo,NY
+2631,Charlotte,NC
+2632,Chicago,IL
+2633,Cincinnati,OH
+2634,Cleveland,OH
+2635,Columbus,OH
+2636,Dallas,TX
+2637,Denver,CO
+2638,Detroit,MI
+2639,El Paso,TX
+2640,Fairfax County,VA
+2641,Fort Worth,TX
+2642,Fresno,CA
+2643,Honolulu,HI
+2644,Houston,TX
+2645,Indianapolis,IN
+2646,Jacksonville,FL
+2647,Kansas City,MO
+2648,Las Vegas,NV
+2649,Long Beach,CA
+2650,Los Angeles County,CA
+2651,Los Angeles,CA
+2652,Louisville,KY
+2653,Memphis,TN
+2654,Mesa,AZ
+2655,Miami-Dade County,FL
+2656,Miami,FL
+2657,Milwaukee,WI
+2658,Minneapolis,MN
+2659,Montgomery County,MD
+2660,Nashville,TN
+2661,Nassau County,NY
+2662,New Orleans,LA
+2663,New York City,NY
+2664,Newark,NJ
+2665,Oakland,CA
+2666,Oklahoma City,OK
+2667,Omaha,NE
+2668,Orlando,FL
+2669,Philadelphia,PA
+2670,Phoenix,AZ
+2671,Pittsburgh,PA
+2672,Portland,OR
+2673,Prince George's County,MD
+2674,Raleigh,NC
+2675,Sacramento,CA
+2676,Salt Lake City,UT
+2677,San Antonio,TX
+2678,San Diego,CA
+2679,San Francisco,CA
+2680,San Jose,CA
+2681,Seattle,WA
+2682,St. Louis,MO
+2683,Suffolk County,NY
+2684,Tampa,FL
+2685,Tucson,AZ
+2686,Tulsa,OK
+2687,Virginia Beach,VA
+2688,Washington,DC
+2689,Wichita,KS
+2691,Albuquerque,NM
+2692,Arlington,TX
+2693,Atlanta,GA
+2694,Aurora,CO
+2695,Austin,TX
+2696,Baltimore County,MD
+2697,Baltimore,MD
+2698,Boston,MA
+2699,Buffalo,NY
+2700,Charlotte,NC
+2701,Chicago,IL
+2702,Cincinnati,OH
+2703,Cleveland,OH
+2704,Columbus,OH
+2705,Dallas,TX
+2706,Denver,CO
+2707,Detroit,MI
+2708,El Paso,TX
+2709,Fairfax County,VA
+2710,Fort Worth,TX
+2711,Fresno,CA
+2712,Honolulu,HI
+2713,Houston,TX
+2714,Indianapolis,IN
+2715,Jacksonville,FL
+2716,Kansas City,MO
+2717,Las Vegas,NV
+2718,Long Beach,CA
+2719,Los Angeles County,CA
+2720,Los Angeles,CA
+2721,Louisville,KY
+2722,Memphis,TN
+2723,Mesa,AZ
+2724,Miami-Dade County,FL
+2725,Miami,FL
+2726,Milwaukee,WI
+2727,Minneapolis,MN
+2728,Montgomery County,MD
+2729,Nashville,TN
+2730,Nassau County,NY
+2731,New Orleans,LA
+2732,New York City,NY
+2733,Newark,NJ
+2734,Oakland,CA
+2735,Oklahoma City,OK
+2736,Omaha,NE
+2737,Orlando,FL
+2738,Philadelphia,PA
+2739,Phoenix,AZ
+2740,Pittsburgh,PA
+2741,Portland,OR
+2742,Prince George's County,MD
+2743,Raleigh,NC
+2744,Sacramento,CA
+2745,Salt Lake City,UT
+2746,San Antonio,TX
+2747,San Diego,CA
+2748,San Francisco,CA
+2749,San Jose,CA
+2750,Seattle,WA
+2751,St. Louis,MO
+2752,Suffolk County,NY
+2753,Tampa,FL
+2754,Tucson,AZ
+2755,Tulsa,OK
+2756,Virginia Beach,VA
+2757,Washington,DC
+2758,Wichita,KS
